@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dahliaway.com/sitemap.xml
